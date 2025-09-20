@@ -48,7 +48,7 @@
 
 ---
 <details>
-<summary>📂 点击展开查看更多资源站点</summary>
+<summary>📂 模板信息</summary>
 
   <br>
 
