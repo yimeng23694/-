@@ -44,8 +44,8 @@ https://ramensoftware.com/rar-unlocker](https://nliteos.com/index.html
 -服务包集成
 -组件移除
 -无人值守安装
--驱动程序集成*
--修补程序集成**
+-驱动程序集成
+-修补程序集成
 -调整
 -服务配置
 -补丁集成
