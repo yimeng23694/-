@@ -45,11 +45,11 @@ https://ramensoftware.com/rar-unlocker](https://nliteos.com/index.html
 -组件移除
 -无人值守安装
 -驱动程序集成
--修补程序集成
+- 修补程序集成
 -调整
 -服务配置
 -补丁集成
--可启动 ISO 创建
+-可创建启动ISO
 
 ---
 
