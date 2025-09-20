@@ -8,15 +8,12 @@
 
 ---
 
-### 1、RAR Unlocker
-
-🔗[[官网下载地址](https://ramensoftware.com/rar-unlocker)]
-
-
-📌 **特点/功能**：  
-- [投入和]
-- [图哈特]
-- [退换货]
+### 一、RAR Unlocker
+🔗 [[官网下载地址](https://ramensoftware.com/rar-unlocker)]
+📌 **特点/功能**：
+- 查看 RAR 压缩文件属性。
+- 锁定/解锁 RAR 档案。
+- 可以从命令行使用：rar_unlocker.exe archive.rar [--unlock | --lock]
 
 ---
 <details>
@@ -24,13 +21,12 @@
 
   <br>
 
-### 五、软件名称
+### 二、软件名称
 🔗 [官网下载地址]
-
 📌 **特点/功能**：
-- [功能特点1]
-- [功能特点2]
-- [功能特点3]
+- 功能特点1
+- 功能特点2
+- 功能特点3
 
 ---
 
