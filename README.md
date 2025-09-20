@@ -9,7 +9,7 @@
 ---
 
 ### 一、RAR Unlocker
-🔗 [[官网下载地址](https://ramensoftware.com/rar-unlocker)]
+🔗 [[官网地址](https://ramensoftware.com/rar-unlocker)]
 
 📌 **特点/功能**：
 - 查看 RAR 压缩文件属性。
@@ -17,13 +17,23 @@
 - 可以从命令行使用：rar_unlocker.exe archive.rar [--unlock | --lock]
 
 ---
+
+### 二、NTLite
+🔗 [[官网地址](https://www.ntlite.com/)]
+
+📌 **特点/功能**：
+- 集成/安装更新和语言
+- 集成驱动程序、应用程序和 REG 文件
+- 组件移除
+
+---
 <details>
 <summary>📂 点击展开查看更多资源站点</summary>
 
   <br>
 
-### 二、软件名称
-🔗 [官网下载地址]
+### 序号、软件名称
+🔗 [官网地址]
 
 📌 **特点/功能**：
 - 功能特点1
