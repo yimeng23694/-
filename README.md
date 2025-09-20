@@ -57,10 +57,19 @@ https://nliteos.com/nlite.html
 ### 四、软件名称
 
 🔗 **官网下载地址**：  
-[[在此处添加网址](https://www.ntlite.com/download/)]
+[[点击进入官网下载NTLite](https://www.ntlite.com/download/)]
 
 📌 **特点/功能**：  
-- [功能特点1]
+- [
+下载最新的 Windows 更新
+集成/安装更新和语言
+集成驱动程序、应用程序和 REG 文件
+无人值守的 Windows 安装，包括磁盘分区
+硬件驱动程序定位
+Windows 设置配置
+组件移除
+图像、实时（例如 C:\Windows）和离线（例如 D:\Windows、已安装的 VHD 等）编辑 *无捕获
+待定变更概述]
 - [功能特点2]
 - [功能特点3]
 
