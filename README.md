@@ -37,7 +37,8 @@ https://ramensoftware.com/rar-unlocker
 ### 三、nLite
 
 🔗 **官网下载地址**：  
-https://ramensoftware.com/rar-unlocker](https://nliteos.com/index.html
+
+https://nliteos.com/nlite.html
 
 📌 **功能**：  
 - 服务包集成
