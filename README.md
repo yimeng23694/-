@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ea1fbaaf-0921-4156-a94c-3aeae00ba0ad" 
-       width="800" 
+       width="700" 
        height="230" 
        alt="扫码_搜索联合传播样式-标准色版">
 </div>
@@ -46,7 +46,6 @@
 ### 四、chromium
 🔗 [[官网地址](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/)]  
 📌 **特点/功能**：
-
 - 开发人员测试
 - 适用于特殊人群
 - 没有登录见面的浏览器，谷歌浏览器的起点从chromium开始
