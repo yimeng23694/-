@@ -8,7 +8,7 @@
 >
 ### 一、Chromium
 **下载地址** <https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/>
-############# Chromium项目的自动化构建通道，获取由官方CI服务器编译的每一次二进制文件。
+####### Chromium项目的自动化构建通道，获取由官方CI服务器编译的每一次二进制文件。
 
 ## 二、RAR 解锁器
 **RAR Unlocker** <https://ramensoftware.com/rar-unlocker>
