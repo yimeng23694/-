@@ -27,6 +27,17 @@
 - 组件移除
 
 ---
+
+### 三、nLite 
+🔗 [[官网地址](https://nliteos.com/nlite.html)]
+
+📌 **特点/功能**：
+- 服务包集成
+- 组件移除
+- 无人值守安装
+
+---
+
 <details>
 <summary>📂 点击展开查看更多资源站点</summary>
 
