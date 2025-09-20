@@ -28,8 +28,8 @@ https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?p
 https://ramensoftware.com/rar-unlocker
 
 📌 **功能**：  
-- 移除 RAR 压缩包的锁定属性  
--允许编辑被锁定的压缩文档内容  
+- 移除 RAR 压缩包的锁定属性
+-允许编辑被锁定的压缩文档内容
 -解决无法修改加密压缩包的问题
 
 ---
