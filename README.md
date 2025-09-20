@@ -41,12 +41,12 @@ https://ramensoftware.com/rar-unlocker](https://nliteos.com/index.html
 
 📌 **功能**：  
 - 服务包集成
-- 组件移除
-- 无人值守安装
-- 驱动程序集成
-- 修补程序集成
-- 可创建启动ISO 
-- 服务配置    
+-组件移除
+-无人值守安装
+-驱动程序集成
+-修补程序集成
+-可创建启动ISO 
+-服务配置    
 
 ---
 
