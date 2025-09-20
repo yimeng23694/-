@@ -12,7 +12,7 @@
 
 ### 一、Chromium 浏览器每日构建版
 
-🔗 **官方下载地址**：  
+🔗 **官网下载地址**：  
 https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/
 
 📌 **特点**：  
@@ -24,7 +24,7 @@ https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?p
 
 ### 二、RAR 解锁工具
 
-🔗 **软件官网**：  
+🔗 **官网下载地址**：  
 https://ramensoftware.com/rar-unlocker
 
 📌 **功能**：  
@@ -39,11 +39,6 @@ https://ramensoftware.com/rar-unlocker
 
 <br>
 
-**更多实用网站与工具将在未来更新于此区域...**
+**未来添加更多内容**
 
 </details>
-
----
-
-如果需要进一步调整或添加其他内容，请随时告诉我！
-
