@@ -9,7 +9,7 @@
 ### 一、Chromium
 **64 位：** <https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/>
 ## 直达 Chromium 项目最前沿的自动化构建通道。获取由官方 CI 服务器编译的每一次代码提交后的原生二进制文件。
-## 二、压缩包文档解锁器
+## 二、RAR Unlocker
 ** <https://ramensoftware.com/rar-unlocker>
 ## 删除 RAR 档案锁定属性，让你修改锁定的文档。
 
