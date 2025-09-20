@@ -34,6 +34,18 @@ https://ramensoftware.com/rar-unlocker
 
 ---
 
+### 三、nLite
+
+🔗 **官网下载地址**：  
+[https://ramensoftware.com/rar-unlocker](https://nliteos.com/index.html)
+
+📌 **功能**：  
+- 移除 RAR 压缩包的锁定属性  
+- 允许编辑被锁定的压缩文档内容  
+- 解决无法修改加密压缩包的问题
+
+---
+
 <details>
 <summary>📂 点击展开查看更多资源站点</summary>
 
