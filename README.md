@@ -10,7 +10,7 @@
 
 ## 📥 实用下载中心
 
-### 一、Chromium 浏览器每日构建版
+### 一、Chromium 浏览器
 
 🔗 **官网下载地址**：  
 https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?prefix=Win_x64/
